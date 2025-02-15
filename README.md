@@ -14,7 +14,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bearstorm&repo=HA_Blueprints&theme=dark)](https://github.com/Bearstorm/HA_Blueprints)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bearstorm&repo=HA-custom-integration=dark)](https://github.com/Bearstorm/HA-custom-integration)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bearstorm&repo=HA-custom-integration&theme=dark)](https://github.com/Bearstorm/HA-custom-integration)
+
 
 <!---
 Bearstorm/Bearstorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
