@@ -4,6 +4,8 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/snickers03/snickers03/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bearstorm&show_icons=true&theme=dark)
+
 ## Support me 🔥
 - 😄 PayPal one-off donation
 <a href="https://www.paypal.com/donate/?hosted_button_id=PVATF8G5NZ392">
