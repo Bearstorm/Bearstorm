@@ -11,7 +11,11 @@
 <a href="https://www.paypal.com/donate/?hosted_button_id=PVATF8G5NZ392">
   <img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/925c5a9e397363c6f7a477973fdeed485df5fdd9/blue.svg" alt="Donate with PayPal" height="40"/>
 </a>
-
+TypeScript   5 hrs 13 mins   ████████████████████░░░░░   80.05 %
+Other        23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Git          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 # My Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bearstorm&repo=HA_Blueprints&theme=dark)](https://github.com/Bearstorm/HA_Blueprints)
