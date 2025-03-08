@@ -4,11 +4,12 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/snickers03/snickers03/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bearstorm&theme=aura) ![GitHub Stats Radar](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bearstorm&theme=github_dark)
+ ![GitHub Stats Radar](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bearstorm&theme=github_dark)  ![GitHub Banner](https://github-readme-streak-stats.herokuapp.com/?user=Bearstorm&theme=dark)
+
  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bearstorm&show_icons=true&theme=dark)  ![GitHub Banner](https://github-readme-streak-stats.herokuapp.com/?user=Bearstorm&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bearstorm&show_icons=true&theme=dark)  
 
 
 ## Support me 🔥
