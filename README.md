@@ -1,5 +1,22 @@
-- 👋 Hi, I’m @Bearstorm
-- 📫 Check out my page www.bearstorm.com
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>👋 Hi, I’m <b>@Bearstorm</b></li>
+        <li>📬 Check out my page <a href="https://bearstorm.com">bearstorm.com</a></li>
+      </ul>
+    </td>
+    <td style="text-align: right;">
+      <h2>Support me 🔥</h2>
+      <p>😄 PayPal one-off donation</p>
+      <a href="https://www.paypal.com/donate/?hosted_button_id=PVATF8G5NZ392">
+        <img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/925c5a9e397363c6f7a477973fdeed485df5fdd9/blue.svg" alt="Donate with PayPal" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/snickers03/snickers03/output/github-contribution-grid-snake.svg#gh-light-mode-only)
